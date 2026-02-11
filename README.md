@@ -29,3 +29,5 @@ import { Button, Input, Label } from "@nattui/react-components"
 
 - [react-components](https://react-components-web.vercel.app)
 - [config-and-setup-notes](https://github.com/nattui/config-and-setup-notes)
+
+I have around 2000 additional commits from my other account this past year.
