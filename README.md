@@ -1,7 +1,7 @@
 ```jsx
-// bun add @nattui/react-components
-// bun add @nattui/tailwind-colors
-// bun add @nattui/tailwind-exact
+// bun add @nattstack/ui
+// bun add @nattstack/tailwind-colors
+// bun add @nattstack/tailwind-exact
 
 // global.css
 @import "tailwindcss";
@@ -9,7 +9,7 @@
 @import "@nattui/tailwind-exact";
 
 // component.tsx
-import { Button, Input, Label } from "@nattui/react-components"
+import { Button, Input, Label } from "@nattstack/ui/react"
 
 <Label className="mb-2" htmlFor="email">
   Email
@@ -27,7 +27,6 @@ import { Button, Input, Label } from "@nattui/react-components"
 </Button>
 ```
 
-- [react-components](https://react-components-web.vercel.app)
-- [config-and-setup-notes](https://github.com/nattui/config-and-setup-notes)
+- [ui](https://react-components-web.vercel.app)
+- [config-and-setup-notes](https://github.com/nattstack/config-and-setup-notes)
 
-I have around 2000 additional commits from my other account this past year.
