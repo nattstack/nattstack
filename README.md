@@ -1,15 +1,13 @@
 ```jsx
 // bun add @nattstack/ui
-// bun add @nattstack/tailwind-colors
-// bun add @nattstack/tailwind-exact
 
 // global.css
 @import "tailwindcss";
-@import "@nattui/tailwind-colors";
-@import "@nattui/tailwind-exact";
+@import "@nattstack/ui/tailwind-colors";
+@import "@nattstack/ui/tailwind-tokenless-10";
 
 // component.tsx
-import { Button, Input, Label } from "@nattstack/ui/react"
+import { Button, Input, Label } from "@nattstack/ui"
 
 <Label className="mb-2" htmlFor="email">
   Email
