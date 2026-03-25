@@ -1,4 +1,4 @@
-```jsx
+```tsx
 // bun add @nattstack/ui
 
 // global.css
