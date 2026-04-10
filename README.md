@@ -5,6 +5,7 @@
 @import "tailwindcss";
 @import "@nattstack/ui/tailwind-colors";
 @import "@nattstack/ui/tailwind-tokenless-10";
+@import "@nattstack/ui/baseline";
 
 // component.tsx
 import { Button, Input, Label } from "@nattstack/ui"
