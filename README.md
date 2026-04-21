@@ -29,4 +29,4 @@ import { Button, Input, Label } from "@nattstack/ui"
 - [ui](https://react-components-web.vercel.app)
 - [config-and-setup-notes](https://github.com/nattstack/config-and-setup-notes)
 
-(I have two other accounts with 2 thousand plus commits)
+(I have two other accounts with 2,000+ commits)
