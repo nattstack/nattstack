@@ -1,6 +1,8 @@
-```tsx
-// bun add @nattstack/ui
+```diff
++ bun add @nattstack/ui
+```
 
+```tsx
 // global.css
 @import "tailwindcss";
 @import "@nattstack/ui/tailwind-colors";
