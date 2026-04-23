@@ -1,5 +1,5 @@
 ```diff
-+ bun add @nattstack/ui
+! bun add @nattstack/ui
 ```
 
 ```tsx
