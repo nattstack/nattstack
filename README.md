@@ -31,4 +31,4 @@ import { Button, Input, Label } from "@nattstack/ui"
 - [ui](https://nui-web.vercel.app)
 - [config-and-setup-notes](https://github.com/nattstack/config-and-setup-notes)
 
-(I have two other accounts with 2,000+ commits)
+(I have two other accounts with 3,000+ commits)
